@@ -1,0 +1,5 @@
+si7006.c:10:19:SI7006_Init	16	static
+si7006.c:16:19:SI7006_ReadTemperature	32	static
+si7006.c:26:19:SI7006_ReadHumidity	32	static
+si7006.c:38:17:SI7006_ReadData	40	static
+si7006.c:66:17:SI7006_ReadData_temp	48	static
